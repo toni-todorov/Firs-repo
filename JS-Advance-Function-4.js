@@ -27,3 +27,4 @@ firstZeroTest.removeStart(3);
 firstZeroTest.removeEnd(4);
 firstZeroTest.print()
 12
+asdddd
