@@ -9,7 +9,7 @@ function createCalculator() {
     }
 }
 let calc = createCalculator()
-describe ("createCalculator",function(){
+ describe ("createCalculator",function(){
     it ("check for object",function(){
         assert.equal(typeof(createCalculator()), typeof({}), "the return is not object")
     })
